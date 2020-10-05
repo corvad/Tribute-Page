@@ -1,5 +1,4 @@
-# Tribute-Page
-<style>
+<!DOCTYPE html>
 body {
   font-family: Mono;
   background: linear-gradient(180deg, #d7ab4a, #4562d6);
@@ -49,7 +48,7 @@ main {
 	font-family: Mono;
 	margin: 10px auto 100px auto;
 }
-</style>
+<html>
 <main id="main">
   <h1 id="title">John Vincent Atanasoff
   </h1>
@@ -73,3 +72,4 @@ main {
   <a id="tribute-link" href="https://en.wikipedia.org/wiki/John_Vincent_Atanasoff" target="_blank" <a>Click Here to Learn More About John Vincent Atanasoff</a>
   <p>By: David Corvaglia 3rd</p>
 </main>
+</html>
